@@ -1,0 +1,7 @@
+## Interface: 50001
+## Version: 5.0.1
+## Title: eFilter
+## Notes: Filters errors from the error frame.
+## Author: Ession
+
+eFilter.lua
