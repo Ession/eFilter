@@ -4,7 +4,7 @@
 -- 
 --    Description:  Filters errors from the error frame.
 -- 
---        Version:  5.0.1
+--        Version:  5.2.1
 --        Created:  Sun Nov 01 11:06:25 CET 2009
 --       Revision:  none
 -- 
